@@ -2,13 +2,11 @@
 
 Author: Choong-Wan Woo (Sungkyunkwan University) https://cocoanlab.github.io/
 
-Date: 2019/8/17 @ KHBM 2019 Summer school
 
 ## Slides
 
-Download: You can download the slide PDF [here](/slide/Woo_KHBM2019_summerschool_RSA.pdf)
+Download: You can download the slide PDF [here](/slide/cocoan101_L9_RSA.pdf)
 
-If you want PPT file (>50MB), please use the following dropbox [link](https://www.dropbox.com/s/rg3dlcklyv20m0q/khbm_2019_summer_rsa.pptx?dl=0)
 
 ## Dependencies
 
@@ -22,7 +20,7 @@ To run the **Matlab scripts** `tutorial_main.mlx`, or `tutorial_main.m`, you wil
 	- Matlab Statistics and Machine Learning toolbox
 	- [Statistical Parametric Mapping (SPM) toolbox](https://www.fil.ion.ucl.ac.uk/spm/) 
 
-The Matlab script `tutorial_main.mlx` was tested on macOS High Sierra with Matlab 9.5 R2018b.
+The Matlab script `tutorial_main.mlx` was tested on macOS Catalina with Matlab R2021a.
 
 
 See also RSA toolbox written by Kriegeskorte group: [https://github.com/rsagroup/rsatoolbox](https://github.com/rsagroup/rsatoolbox)
