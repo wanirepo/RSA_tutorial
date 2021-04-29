@@ -35,7 +35,7 @@
 
 clear all;
 % directory setup
-basedir = '/Users/clinpsywoo/Dropbox/github/khbm2019_RSA_tutorial/tutorial';
+basedir = '/Users/clinpsywoo/Dropbox/github/RSA_tutorial/tutorial';
 % you need to change the first part of the path into your path directories
 
 datdir = fullfile(basedir, 'data', 'contrast_images');
